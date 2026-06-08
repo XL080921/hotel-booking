@@ -13,11 +13,11 @@ const hotelsData = [
         description: "坐落于上海陆家嘴核心地带，坐拥黄浦江壮丽天际线。酒店拥有300间豪华客房，配备全景落地窗，让您尽享魔都璀璨夜景。米其林星级餐厅、无边际泳池、奢华水疗中心一应俱全。",
         amenities: ["免费WiFi", "游泳池", "健身房", "SPA", "餐厅", "停车场", "商务中心", "行政酒廊"],
         images: [
-            "https://loremflickr.com/800/500/hotel+room?lock=0",
-            "https://loremflickr.com/800/500/luxury+hotel?lock=1",
-            "https://loremflickr.com/800/500/hotel+lobby?lock=2",
-            "https://loremflickr.com/800/500/resort+pool?lock=3",
-            "https://loremflickr.com/800/500/hotel+suite?lock=4",
+            "https://images.unsplash.com/photo-1549638441-b787d2e11f14?w=800",
+            "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=800",
+            "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=800",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
+            "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
         ],
         rooms: [
             { type: "豪华大床房", price: 1288, desc: "45㎡，城市景观，含早餐" },
@@ -36,11 +36,11 @@ const hotelsData = [
         description: "隐匿于西湖龙井茶山之间，白墙黛瓦，江南园林设计。仅设48间禅意客房，每间均可远眺西湖或茶园。私享茶室、竹林瑜伽、湖畔下午茶——在这里，时间是慢的。",
         amenities: ["免费WiFi", "茶室", "瑜伽室", "花园", "餐厅", "停车场", "自行车租赁", "管家服务"],
         images: [
-            "https://loremflickr.com/800/500/hotel+exterior?lock=5",
-            "https://loremflickr.com/800/500/hotel+interior?lock=6",
-            "https://loremflickr.com/800/500/beach+resort?lock=7",
-            "https://loremflickr.com/800/500/spa+resort?lock=8",
-            "https://loremflickr.com/800/500/boutique+hotel?lock=9",
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?w=800",
+            "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+            "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
         ],
         rooms: [
             { type: "禅意大床房", price: 1688, desc: "40㎡，茶园景观，含双早" },
@@ -59,11 +59,11 @@ const hotelsData = [
         description: "面朝碧蓝南海，坐拥300米私属白沙滩。酒店以海洋元素为设计灵感，热带园林环绕，每间客房皆享海景阳台。潜水中心、海上运动俱乐部、海鲜餐厅，让您的海岛假期精彩纷呈。",
         amenities: ["免费WiFi", "私人海滩", "游泳池", "潜水中心", "儿童乐园", "餐厅", "停车场", "水上运动"],
         images: [
-            "https://loremflickr.com/800/500/5+star+hotel?lock=10",
-            "https://loremflickr.com/800/500/hotel+restaurant?lock=11",
-            "https://loremflickr.com/800/500/hotel+garden?lock=12",
-            "https://loremflickr.com/800/500/mountain+resort?lock=13",
-            "https://loremflickr.com/800/500/hotel+bedroom?lock=14",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+            "https://images.unsplash.com/photo-1585544314038-a0d012e2418f?w=800",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+            "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+            "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
         ],
         rooms: [
             { type: "海景大床房", price: 988, desc: "38㎡，海景阳台，含早餐" },
@@ -82,11 +82,11 @@ const hotelsData = [
         description: "由百年四合院精心改造而成的精品酒店，保留了老北京建筑的精髓——灰砖、红门、庭院、石榴树。仅15间客房，每间都融入了中国传统美学与现代舒适。步行可达故宫、后海。",
         amenities: ["免费WiFi", "庭院", "茶室", "餐厅", "图书室", "自行车租赁"],
         images: [
-            "https://loremflickr.com/800/500/tropical+resort?lock=15",
-            "https://loremflickr.com/800/500/hotel+balcony?lock=16",
-            "https://loremflickr.com/800/500/hotel+view?lock=17",
-            "https://loremflickr.com/800/500/city+hotel?lock=18",
-            "https://loremflickr.com/800/500/historic+hotel?lock=19",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?w=800",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+            "https://images.unsplash.com/photo-1549638441-b787d2e11f14?w=800",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
         ],
         rooms: [
             { type: "标准庭院房", price: 688, desc: "25㎡，庭院景观，含早餐" },
@@ -105,11 +105,11 @@ const hotelsData = [
         description: "位于成都时尚地标太古里核心，融合传统川西建筑与现代设计。酒店由英国著名建筑师设计，竹影婆娑，庭院深深。屋顶酒吧可俯瞰太古里全景，SPA采用蜀地天然草药。",
         amenities: ["免费WiFi", "游泳池", "健身房", "SPA", "屋顶酒吧", "餐厅", "停车场", "宠物友好"],
         images: [
-            "https://loremflickr.com/800/500/hotel+room?lock=20",
-            "https://loremflickr.com/800/500/luxury+hotel?lock=21",
-            "https://loremflickr.com/800/500/hotel+lobby?lock=22",
-            "https://loremflickr.com/800/500/resort+pool?lock=23",
-            "https://loremflickr.com/800/500/hotel+suite?lock=24",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+            "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800",
+            "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+            "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
         ],
         rooms: [
             { type: "精选大床房", price: 1088, desc: "40㎡，城市景观，含早餐" },
@@ -128,11 +128,11 @@ const hotelsData = [
         description: "藏身于丽江古城深处的纳西庭院民宿，潺潺流水穿院而过，四季鲜花盛开。18间客房均由老宅改建，保留了纳西族传统木结构建筑风格。清晨在玉龙雪山背景下享用纳西早餐。",
         amenities: ["免费WiFi", "花园", "茶室", "早餐", "接机服务", "旅游咨询"],
         images: [
-            "https://loremflickr.com/800/500/hotel+exterior?lock=25",
-            "https://loremflickr.com/800/500/hotel+interior?lock=26",
-            "https://loremflickr.com/800/500/beach+resort?lock=27",
-            "https://loremflickr.com/800/500/spa+resort?lock=28",
-            "https://loremflickr.com/800/500/boutique+hotel?lock=29",
+            "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800",
         ],
         rooms: [
             { type: "纳西庭院房", price: 488, desc: "22㎡，庭院景观，含早餐" },
@@ -151,11 +151,11 @@ const hotelsData = [
         description: "矗立于广州CBD核心，时尚潮流的奢华酒店。炫酷的灯光设计、前卫的艺术装置、高空泳池派对——这里是城市精英的聚集地。步行可达广州塔、花城广场。",
         amenities: ["免费WiFi", "游泳池", "健身房", "SPA", "酒吧", "餐厅", "停车场", "会议室"],
         images: [
-            "https://loremflickr.com/800/500/5+star+hotel?lock=30",
-            "https://loremflickr.com/800/500/hotel+restaurant?lock=31",
-            "https://loremflickr.com/800/500/hotel+garden?lock=32",
-            "https://loremflickr.com/800/500/mountain+resort?lock=33",
-            "https://loremflickr.com/800/500/hotel+bedroom?lock=34",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800",
+            "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
+            "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=800",
+            "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800",
         ],
         rooms: [
             { type: "奇妙客房", price: 888, desc: "35㎡，城市景观，含早餐" },
@@ -174,11 +174,11 @@ const hotelsData = [
         description: "直面洱海的白族风格民宿，日出日落尽收眼底。简约而不简单的设计，每间客房都有超大海景窗。老板是一位摄影师，店内随处可见他的大理风光作品。租一辆自行车环洱海吧。",
         amenities: ["免费WiFi", "海景露台", "早餐", "自行车租赁", "停车场", "摄影工作室"],
         images: [
-            "https://loremflickr.com/800/500/tropical+resort?lock=35",
-            "https://loremflickr.com/800/500/hotel+balcony?lock=36",
-            "https://loremflickr.com/800/500/hotel+view?lock=37",
-            "https://loremflickr.com/800/500/city+hotel?lock=38",
-            "https://loremflickr.com/800/500/historic+hotel?lock=39",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+            "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+            "https://images.unsplash.com/photo-1585544314038-a0d012e2418f?w=800",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
         ],
         rooms: [
             { type: "海景大床房", price: 528, desc: "30㎡，180°海景，含双早" },
@@ -197,11 +197,11 @@ const hotelsData = [
         description: "坐落于深圳湾超级总部基地，360°无遮挡海景。由新加坡莱佛士品牌管理，融合岭南文化与国际奢华。168间客房均配备智能家居系统，云端无边际泳池可俯瞰深圳湾大桥。",
         amenities: ["免费WiFi", "游泳池", "健身房", "SPA", "餐厅", "停车场", "行政酒廊", "儿童俱乐部"],
         images: [
-            "https://loremflickr.com/800/500/hotel+room?lock=40",
-            "https://loremflickr.com/800/500/luxury+hotel?lock=41",
-            "https://loremflickr.com/800/500/hotel+lobby?lock=42",
-            "https://loremflickr.com/800/500/resort+pool?lock=43",
-            "https://loremflickr.com/800/500/hotel+suite?lock=44",
+            "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+            "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+            "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800",
         ],
         rooms: [
             { type: "湾景大床房", price: 1588, desc: "48㎡，深圳湾海景，含双早" },
@@ -220,11 +220,11 @@ const hotelsData = [
         description: "位于世界文化遗产鼓浪屿核心区，由百年林氏府邸修缮而成。红砖洋楼、欧式庭院、琴声袅袅。仅22间复古客房，每间都以一段鼓浪屿故事命名。步行可达菽庄花园、日光岩。",
         amenities: ["免费WiFi", "花园", "茶室", "早餐", "钢琴室", "图书馆", "接驳服务"],
         images: [
-            "https://loremflickr.com/800/500/hotel+exterior?lock=45",
-            "https://loremflickr.com/800/500/hotel+interior?lock=46",
-            "https://loremflickr.com/800/500/beach+resort?lock=47",
-            "https://loremflickr.com/800/500/spa+resort?lock=48",
-            "https://loremflickr.com/800/500/boutique+hotel?lock=49",
+            "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=800",
+            "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800",
+            "https://images.unsplash.com/photo-1585544314038-a0d012e2418f?w=800",
+            "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
         ],
         rooms: [
             { type: "花园大床房", price: 688, desc: "28㎡，庭院景观，含早餐" },
@@ -243,11 +243,11 @@ const hotelsData = [
         description: "矗立于长江与嘉陵江交汇处的「朝天扬帆」建筑群顶端。酒店悬于250米高空，水晶连廊横跨四栋塔楼，被誉为「重庆天空之眼」。380间客房尽览两江四岸立体夜景。",
         amenities: ["免费WiFi", "游泳池", "健身房", "SPA", "餐厅", "空中酒吧", "停车场", "会议室"],
         images: [
-            "https://loremflickr.com/800/500/5+star+hotel?lock=50",
-            "https://loremflickr.com/800/500/hotel+restaurant?lock=51",
-            "https://loremflickr.com/800/500/hotel+garden?lock=52",
-            "https://loremflickr.com/800/500/mountain+resort?lock=53",
-            "https://loremflickr.com/800/500/hotel+bedroom?lock=54",
+            "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800",
+            "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800",
+            "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+            "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=800",
         ],
         rooms: [
             { type: "江景大床房", price: 1088, desc: "42㎡，两江交汇景，含早餐" },
@@ -266,11 +266,11 @@ const hotelsData = [
         description: "隐匿于苏州平江历史街区，由三进苏式园林院落改建。粉墙黛瓦、曲径通幽、太湖石与翠竹相映成趣。每间客房都是一幅《姑苏繁华图》，推开窗便是小桥流水。",
         amenities: ["免费WiFi", "园林", "茶室", "苏式早餐", "书吧", "汉服体验", "停车场"],
         images: [
-            "https://loremflickr.com/800/500/tropical+resort?lock=55",
-            "https://loremflickr.com/800/500/hotel+balcony?lock=56",
-            "https://loremflickr.com/800/500/hotel+view?lock=57",
-            "https://loremflickr.com/800/500/city+hotel?lock=58",
-            "https://loremflickr.com/800/500/historic+hotel?lock=59",
+            "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=800",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800",
+            "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
         ],
         rooms: [
             { type: "园林景观房", price: 628, desc: "26㎡，庭院景观，含苏式早餐" },
@@ -289,11 +289,11 @@ const hotelsData = [
         description: "由建筑大师Kerry Hill设计的极简主义海滨酒店，以青岛「红瓦绿树、碧海蓝天」为灵感。铜网外立面随海风摇曳，无边泳池与黄海融为一体。私享一公里海岸线，日出时分享受胶州湾第一缕阳光。",
         amenities: ["免费WiFi", "私人海滩", "无边泳池", "SPA", "温泉", "餐厅", "停车场", "瑜伽"],
         images: [
-            "https://loremflickr.com/800/500/hotel+room?lock=60",
-            "https://loremflickr.com/800/500/luxury+hotel?lock=61",
-            "https://loremflickr.com/800/500/hotel+lobby?lock=62",
-            "https://loremflickr.com/800/500/resort+pool?lock=63",
-            "https://loremflickr.com/800/500/hotel+suite?lock=64",
+            "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+            "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+            "https://images.unsplash.com/photo-1549638441-b787d2e11f14?w=800",
+            "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
         ],
         rooms: [
             { type: "海景大床房", price: 1388, desc: "50㎡，全海景落地窗，含早餐" },
@@ -312,11 +312,11 @@ const hotelsData = [
         description: "坐落于南京最美街道颐和路，由26栋民国时期公馆别墅组成。梧桐深深、青砖灰瓦，每一栋建筑都承载着一段民国往事。酒店内设民国主题博物馆，住客可参与旗袍换装体验。",
         amenities: ["免费WiFi", "花园", "博物馆", "餐厅", "下午茶", "图书馆", "停车场", "旗袍体验"],
         images: [
-            "https://loremflickr.com/800/500/hotel+exterior?lock=65",
-            "https://loremflickr.com/800/500/hotel+interior?lock=66",
-            "https://loremflickr.com/800/500/beach+resort?lock=67",
-            "https://loremflickr.com/800/500/spa+resort?lock=68",
-            "https://loremflickr.com/800/500/boutique+hotel?lock=69",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800",
+            "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?w=800",
         ],
         rooms: [
             { type: "公馆大床房", price: 1288, desc: "35㎡，民国风情，含双早" },
@@ -335,11 +335,11 @@ const hotelsData = [
         description: "百年历史的俄式新艺术运动风格建筑，中央大街上的活化石。始建于1906年，曾是远东最豪华的社交场所。冬季推窗即见冰雪大世界，步行可达圣索菲亚教堂。俄式餐厅传承百年风味。",
         amenities: ["免费WiFi", "俄式餐厅", "酒吧", "停车场", "冰雪旅游咨询", "暖气"],
         images: [
-            "https://loremflickr.com/800/500/5+star+hotel?lock=70",
-            "https://loremflickr.com/800/500/hotel+restaurant?lock=71",
-            "https://loremflickr.com/800/500/hotel+garden?lock=72",
-            "https://loremflickr.com/800/500/mountain+resort?lock=73",
-            "https://loremflickr.com/800/500/hotel+bedroom?lock=74",
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?w=800",
+            "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800",
+            "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
         ],
         rooms: [
             { type: "经典标准间", price: 488, desc: "22㎡，百年建筑，含俄式早餐" },
@@ -358,11 +358,11 @@ const hotelsData = [
         description: "坐拥松赞林寺全景的藏式庄园酒店，海拔3300米。由24栋藏式碉房组成，每间客房均可远眺金色寺院屋顶与雪山。清晨在煨桑的柏香中醒来，夜晚围着火塘聆听藏族阿妈讲述格萨尔王传说。",
         amenities: ["免费WiFi", "藏式早餐", "火塘", "经堂", "牦牛绒制品", "停车场", "高原氧吧"],
         images: [
-            "https://loremflickr.com/800/500/tropical+resort?lock=75",
-            "https://loremflickr.com/800/500/hotel+balcony?lock=76",
-            "https://loremflickr.com/800/500/hotel+view?lock=77",
-            "https://loremflickr.com/800/500/city+hotel?lock=78",
-            "https://loremflickr.com/800/500/historic+hotel?lock=79",
+            "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+            "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
+            "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
         ],
         rooms: [
             { type: "藏式大床房", price: 1288, desc: "35㎡，松赞林寺景观，含藏式早餐" },
@@ -373,7 +373,7 @@ const hotelsData = [
 ];
 
 // 默认图片（当图片加载失败时使用）
-const defaultImage = "data:image/svg+xml," + encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250"><rect fill="#e2e8f0" width="400" height="250"/><text fill="#94a3b8" font-family="system-ui" font-size="18" text-anchor="middle" x="200" y="120">暂无图片</text><text fill="#94a3b8" font-family="system-ui" font-size="14" text-anchor="middle" x="200" y="145">No Image</text></svg>`);
+const defaultImage = "data:image/svg+xml," + encodeURIComponent("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"250\" viewBox=\"0 0 400 250\"><rect fill=\"#f1f5f9\" width=\"400\" height=\"250\" rx=\"8\"/><text fill=\"#64748b\" font-family=\"system-ui\" font-size=\"48\" text-anchor=\"middle\" x=\"200\" y=\"115\">🏨</text><text fill=\"#94a3b8\" font-family=\"system-ui\" font-size=\"15\" text-anchor=\"middle\" x=\"200\" y=\"155\">暂无图片</text><text fill=\"#cbd5e1\" font-family=\"system-ui\" font-size=\"12\" text-anchor=\"middle\" x=\"200\" y=\"180\">放入 images/ 文件夹即可显示</text></svg>");
 
 // 从 localStorage 加载订单数据
 function loadBookings() {
